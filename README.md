@@ -136,7 +136,7 @@ password: admin
 
 ## Token Request URL
 
-<i>FCurl, Postman, Insomnia, etc.</i>
+<i>Curl, Postman, Insomnia, etc.</i>
 
 ### Local:
 
